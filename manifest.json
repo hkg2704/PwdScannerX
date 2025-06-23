@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "PwdScannerX",
+  "version": "1.0",
+  "description": "Checks password strength and data breach exposure in real-time.",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["popup.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  }
+}
