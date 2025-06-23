@@ -1,6 +1,6 @@
-🔐 PwdScanner – Password Strength & Breach Checker Extension
+🔐 PwdScannerX – Password Strength & Breach Checker Extension
 
-**PwdScanner** is a lightweight and privacy-focused Chrome browser extension that checks the strength of your password and verifies if it has been exposed in a known data breach using the [Have I Been Pwned](https://haveibeenpwned.com) API — all without ever sending your full password over the internet.
+**PwdScannerX** is a lightweight and privacy-focused Chrome browser extension that checks the strength of your password and verifies if it has been exposed in a known data breach using the [Have I Been Pwned](https://haveibeenpwned.com) API — all without ever sending your full password over the internet.
 
 ---
 
